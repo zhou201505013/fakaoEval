@@ -1,7 +1,7 @@
 # fakaoEval: A Legal Reasoning Benchmark with SOLO Taxonomy Annotation
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Paper](https://img.shields.io/badge/Paper-IPM-blue)](#citation)
+<!-- [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) -->
+<!-- [![Paper](https://img.shields.io/badge/Paper-IPM-blue)](#citation) -->
 
 **fakaoEval** is a benchmark dataset for evaluating large language models (LLMs) in legal reasoning. It is built from **China's Unified Qualification Exam for Legal Professions** (国家统一法律职业资格考试, colloquially known as *fakao* 法考) and related coaching materials. The dataset contains **4,308 question-answer pairs** annotated with the **SOLO taxonomy** (Structure of Observed Learning Outcome) to characterize legal knowledge, reasoning, and abstraction at multiple cognitive levels.
 
